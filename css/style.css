@@ -336,4 +336,5 @@ h6 {
 
 #main-footer .footer-container input[type='submit'] {
   width: 90%;
+  cursor: pointer;
 }
